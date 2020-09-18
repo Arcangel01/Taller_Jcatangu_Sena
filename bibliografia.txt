@@ -1,2 +1,4 @@
 Chacon, S. and Straub, B.Pro Git.Apress
 Loeliger, J. and McCullough
+Chacon, S. and Straub, B.Pro Git.Apress 2014
+
